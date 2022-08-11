@@ -1,0 +1,166 @@
+------PRODUCTS (Butcher)
+
+
+
+INSERT INTO PRODUCTS(PRODUCT_NAME,PRODUCT_PRICE,PRODUCT_PICTURE,PRODUCT_DESCRIPTION,SHOP_ID,STATUS,PRODUCT_STOCK,MIN_ORDER,MAX_ORDER,ALLERGY) 
+VALUES ('Pork','99','https://images.pexels.com/photos/4751420/pexels-photo-4751420.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500','Pork is one of the most popular forms of meat in the world.
+Despite some confusion on the issue, pork is classed as red meat. This is because it contains a large amount of myoglobin, a protein responsible for the red color of meat.','1','active','100','1','10','No Allergy');
+
+
+INSERT INTO PRODUCTS(PRODUCT_NAME,PRODUCT_PRICE,PRODUCT_PICTURE,PRODUCT_DESCRIPTION,SHOP_ID,STATUS,PRODUCT_STOCK,MIN_ORDER,MAX_ORDER,ALLERGY) 
+VALUES ('Beef','199','https://images.pexels.com/photos/5468588/pexels-photo-5468588.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500','When most people think of red meat, they probably imagine beef.
+There are many different beef products and cuts of beef, ranging from hamburgers to ribeye steaks.','1','active','100','1','10','No Allergy');
+
+
+
+INSERT INTO PRODUCTS(PRODUCT_NAME,PRODUCT_PRICE,PRODUCT_PICTURE,PRODUCT_DESCRIPTION,SHOP_ID,STATUS,PRODUCT_STOCK,MIN_ORDER,MAX_ORDER,ALLERGY) 
+VALUES ('Chicken','699','https://images.pexels.com/photos/8061829/pexels-photo-8061829.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500%27,',' Alongside beef and pork, chicken is one of the ‘big three’ popularity-wise.
+However, chicken is a different classification of meat and comes under the poultry category.
+People commonly refer to poultry as ‘white meat’.
+As one of the most popular foods in the world, there are all sorts of chicken-based foods. These range from fried and roasted chicken to chicken soup and even chicken popcorn.','1',	'active',	'100 ',	'1','10 ',	'No Allergy');
+
+
+
+
+
+INSERT INTO PRODUCTS(PRODUCT_NAME,PRODUCT_PRICE,PRODUCT_PICTURE,PRODUCT_DESCRIPTION,SHOP_ID,STATUS,PRODUCT_STOCK,MIN_ORDER,MAX_ORDER,ALLERGY) 
+VALUES ('Lamb and Mutton','99','https://images.pexels.com/photos/8432736/pexels-photo-8432736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',' Both lamb and mutton are very similar types of meat, with one fundamental difference,
+Lamb is from a sheep less than one-year-old. Mutton is the meat of an adult sheep Just like beef and pork, there are a variety of popular lamb cuts — perhaps lamb chops are the most popular.','1','active', '100 ','1','10 ',	'No Allergy');
+
+
+
+INSERT INTO PRODUCTS(PRODUCT_NAME,PRODUCT_PRICE,PRODUCT_PICTURE,PRODUCT_DESCRIPTION,SHOP_ID,STATUS,PRODUCT_STOCK,MIN_ORDER,MAX_ORDER,ALLERGY) 
+VALUES ('Turkey','149','https://images.pexels.com/photos/4455010/pexels-photo-4455010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',' Turkey is another type of white meat, probably best known for its appearance at the Christmas table.
+It has both a deeper yet drier taste than chicken and is a less prevalent form of poultry. As mentioned above, the most popular kind is probably roast turkey, but you can find a variety of processed and unprocessed turkey products.','1',	'active',	'100 ',	'1','10 ',	'No Allergy');
+
+
+
+------PRODUCTS (GREENGROCER)
+
+
+
+INSERT INTO PRODUCTS(PRODUCT_NAME,PRODUCT_PRICE,PRODUCT_PICTURE,PRODUCT_DESCRIPTION,SHOP_ID,STATUS,PRODUCT_STOCK,MIN_ORDER,MAX_ORDER,ALLERGY) 
+VALUES ('Spinach','25','https://images.pexels.com/photos/6083893/pexels-photo-6083893.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',' Some of the best vegetables to incorporate into your everyday diet are leafy greens. Spinach is full of antioxidants, which reduce the risk of chronic diseases. It also contains vitamins A and K, and one cup of raw spinach contains 7 calories.','2',	'active',	'1500',	'1','10',	'No Allergy');
+
+
+
+
+
+
+INSERT INTO PRODUCTS(PRODUCT_NAME,PRODUCT_PRICE,PRODUCT_PICTURE,PRODUCT_DESCRIPTION,SHOP_ID,STATUS,PRODUCT_STOCK,MIN_ORDER,MAX_ORDER,ALLERGY) 
+VALUES ('Carrots','225','https://images.pexels.com/photos/4929720/pexels-photo-4929720.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',' Carrots are known to help with eyesight since they contain about 4 times the daily recommended amount of vitamin A. They also contain beta-carotene, an antioxidant that can prevent cancer.','2',	'active',	'1500',	'1','10',	'No Allergy');
+
+
+
+INSERT INTO PRODUCTS(PRODUCT_NAME,PRODUCT_PRICE,PRODUCT_PICTURE,PRODUCT_DESCRIPTION,SHOP_ID,STATUS,PRODUCT_STOCK,MIN_ORDER,MAX_ORDER,ALLERGY) 
+VALUES ('Broccoli','75','https://images.pexels.com/photos/1346347/pexels-photo-1346347.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',' Broccoli is part of the cruciferous vegetable family. These vegetables contain sulforaphane, which can reduce the risk of cancer. It contains vitamins K and C, as well as folate, manganese, and potassium.','2',	'active',	'1500',	'1','10',	'No Allergy');
+
+
+
+INSERT INTO PRODUCTS(PRODUCT_NAME,PRODUCT_PRICE,PRODUCT_PICTURE,PRODUCT_DESCRIPTION,SHOP_ID,STATUS,PRODUCT_STOCK,MIN_ORDER,MAX_ORDER,ALLERGY) 
+VALUES ('Brussel Sprouts','135','https://images.pexels.com/photos/4965038/pexels-photo-4965038.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500','Brussel sprouts are also part of the cruciferous vegetable family. They contain the same vitamins and minerals as broccoli. Brussel sprouts also have kaempferol, a compound that reduces the risk of damage to cells.','2',	'active',	'100',	'1','10',	'No Allergy');
+
+INSERT INTO PRODUCTS(PRODUCT_NAME,PRODUCT_PRICE,PRODUCT_PICTURE,PRODUCT_DESCRIPTION,SHOP_ID,STATUS,PRODUCT_STOCK,MIN_ORDER,MAX_ORDER,ALLERGY) 
+VALUES ('Sweet Potatoes','185','https://images.pexels.com/photos/7368044/pexels-photo-7368044.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940','Like carrots, sweet potatoes contain beta-carotene, a type of vitamin A, to fight against cancer and improve eye health. Sweet potatoes are good for diabetics since they are low on the glycemic index scale and high in fiber.','2',	'active',	'180',	'1','10',	'No Allergy');
+
+
+INSERT INTO PRODUCTS(PRODUCT_NAME,PRODUCT_PRICE,PRODUCT_PICTURE,PRODUCT_DESCRIPTION,SHOP_ID,STATUS,PRODUCT_STOCK,MIN_ORDER,MAX_ORDER,ALLERGY) 
+VALUES ('Mushrooms','65','https://images.pexels.com/photos/5802291/pexels-photo-5802291.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500','Mushrooms contribute to helping with cognition, heart health, and disease prevention. They’re a great meat alternative because they contain protein and fiber. Mushrooms also have vitamins B and D.','2',	'active',	'130',	'1','10',	'No Allergy');
+
+
+
+
+
+
+
+
+----------FISH
+
+
+
+INSERT INTO PRODUCTS(PRODUCT_NAME,PRODUCT_PRICE,PRODUCT_PICTURE,PRODUCT_DESCRIPTION,SHOP_ID,STATUS,PRODUCT_STOCK,MIN_ORDER,MAX_ORDER,ALLERGY) 
+VALUES ('Alaskan salmon','145','https://images.pexels.com/photos/6046747/pexels-photo-6046747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940','There’s a debate about whether wild salmon or farmed salmon is the better option.
+Farmed salmon is significantly cheaper, but it may contain less omega-3s and fewer vitamins and minerals, depending on whether it’s fortified or not.
+Salmon is a great option for your diet overall, but if your budget allows, opt for the wild variety. Try this grilled salmon recipe with a sweet-tangy glaze for an entrée that’s easy to prepare.','3',	'active',	'180',	'1','10',	'No Allergy');
+
+
+INSERT INTO PRODUCTS(PRODUCT_NAME,PRODUCT_PRICE,PRODUCT_PICTURE,PRODUCT_DESCRIPTION,SHOP_ID,STATUS,PRODUCT_STOCK,MIN_ORDER,MAX_ORDER,ALLERGY) 
+VALUES ('Herring','95','https://images.pexels.com/photos/6046671/pexels-photo-6046671.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500','A fatty fish similar to sardines, herring is especially good smoked. Smoked fish is packed with sodium though, so consume it in moderation.
+Jamie Oliver’s Mediterranean-style herring linguine uses the fresh version in this recipe.','3',	'active',	'160',	'1','10',	'No Allergy');
+
+
+
+INSERT INTO PRODUCTS(PRODUCT_NAME,PRODUCT_PRICE,PRODUCT_PICTURE,PRODUCT_DESCRIPTION,SHOP_ID,STATUS,PRODUCT_STOCK,MIN_ORDER,MAX_ORDER,ALLERGY) 
+VALUES ('Mahi-mahi','155','https://images.pexels.com/photos/6046747/pexels-photo-6046747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940','A tropical firm fish, mahi-mahi can hold up to almost any preparation. Because it’s also called dolphinfish, it’s sometimes confused with the mammal dolphin. But don’t worry, they’re completely different. Try some blackened mahi-mahi tacos with a chipotle mayo for dinner.','3', 'active', '160', '1','10', 'No Allergy');
+
+
+
+INSERT INTO PRODUCTS(PRODUCT_NAME,PRODUCT_PRICE,PRODUCT_PICTURE,PRODUCT_DESCRIPTION,SHOP_ID,STATUS,PRODUCT_STOCK,MIN_ORDER,MAX_ORDER,ALLERGY) 
+VALUES ('Mackerel','125','https://images.pexels.com/photos/8065512/pexels-photo-8065512.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500','As opposed to leaner white fish, mackerel is an oily fish, rich in healthy fats. King mackerel is a high-mercury fish, so opt for the lower mercury Atlantic or smaller mackerel choices.','3', 'active', '150', '1','10', 'No Allergy');
+
+
+
+INSERT INTO PRODUCTS(PRODUCT_NAME,PRODUCT_PRICE,PRODUCT_PICTURE,PRODUCT_DESCRIPTION,SHOP_ID,STATUS,PRODUCT_STOCK,MIN_ORDER,MAX_ORDER,ALLERGY)
+ VALUES ('Perch','105','https://images.pexels.com/photos/7627414/pexels-photo-7627414.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500','Another white fish, perch has a medium texture and can come from the ocean or fresh water. Because of its mild taste, a flavorful panko breading goes well with it, like in this recipe.','3', 'active', '150', '1','10', 'No Allergy');
+
+
+-------------------Bakery
+
+
+INSERT INTO PRODUCTS(PRODUCT_NAME,PRODUCT_PRICE,PRODUCT_PICTURE,PRODUCT_DESCRIPTION,SHOP_ID,STATUS,PRODUCT_STOCK,MIN_ORDER,MAX_ORDER,ALLERGY) 
+VALUES ('Miniature cheesecake','65','https://images.pexels.com/photos/1055272/pexels-photo-1055272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260','You can make cheesecakes that are the size of a muffin or a cupcake. They are about as popular as cookie sandwiches because everyone loves cheesecake and these are just the right size. They come in a variety of flavors but the most popular seems to be the original cheesecake and the strawberry.','4', 'active', '100', '1','10', 'No Allergy');
+
+
+INSERT INTO PRODUCTS(PRODUCT_NAME,PRODUCT_PRICE,PRODUCT_PICTURE,PRODUCT_DESCRIPTION,SHOP_ID,STATUS,PRODUCT_STOCK,MIN_ORDER,MAX_ORDER,ALLERGY)
+ VALUES ('Pies','55','https://images.pexels.com/photos/2955816/pexels-photo-2955816.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500','Everyone loves pie, but pie slices are sometimes just not enough to hit the spot and fill up your sweet tooth. Personal pies are about 4 inches in diameter so they are a little larger than a slice, but not too big! They can come in every pie flavor from chocolate to cherry or apple and satisfy all of your pie cravings without leaving you feeling overly stuffed. ','4', 'active', '100', '1','10', 'No Allergy');
+
+
+INSERT INTO PRODUCTS(PRODUCT_NAME,PRODUCT_PRICE,PRODUCT_PICTURE,PRODUCT_DESCRIPTION,SHOP_ID,STATUS,PRODUCT_STOCK,MIN_ORDER,MAX_ORDER,ALLERGY) 
+VALUES ('Cookies','90','https://images.pexels.com/photos/6731/food-light-art-flour.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500','Everyone loves pie, but pie slices are sometimes just not enough to hit the spot and fill up your sweet tooth. Personal pies are about 4 inches in diameter so they are a little larger than a slice, but not too big! They can come in every pie flavor from chocolate to cherry or apple and satisfy all of your pie cravings without leaving you feeling overly stuffed. ','4', 'active', '100', '1','10', 'No Allergy');
+
+
+INSERT INTO PRODUCTS(PRODUCT_NAME,PRODUCT_PRICE,PRODUCT_PICTURE,PRODUCT_DESCRIPTION,SHOP_ID,STATUS,PRODUCT_STOCK,MIN_ORDER,MAX_ORDER,ALLERGY) 
+VALUES ('Cannolis','150','https://images.pexels.com/photos/2955816/pexels-photo-2955816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940','Cannolis are one of those pastries that everyone loves because they are sweet and savory but also so simple and remind us of happy days and good memories. Cannolis can be the original long size that are great for a filling snack and large enough to split with someone else while the miniature size is a great way to satisfy your sweet tooth without getting too filled up on a snack.  ','4', 'active', '100', '1','10', 'No Allergy');
+
+
+INSERT INTO PRODUCTS(PRODUCT_NAME,PRODUCT_PRICE,PRODUCT_PICTURE,PRODUCT_DESCRIPTION,SHOP_ID,STATUS,PRODUCT_STOCK,MIN_ORDER,MAX_ORDER,ALLERGY) 
+VALUES ('Homemade bread ','450','https://images.pexels.com/photos/1359321/pexels-photo-1359321.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500','There is nothing like baking up a loaf of bread to make you feel warm inside. Fresh bread coming out of the oven makes you feel warm and comfortable inside and it can be eaten at any time of the day!','4', 'active', '100', '1','10', 'No Allergy');
+
+
+
+
+
+
+-----DELICATESSEN
+
+
+
+
+INSERT INTO PRODUCTS(PRODUCT_NAME,PRODUCT_PRICE,PRODUCT_PICTURE,PRODUCT_DESCRIPTION,SHOP_ID,STATUS,PRODUCT_STOCK,MIN_ORDER,MAX_ORDER,ALLERGY) 
+VALUES ('Dark Chocolate','329','https://images.pexels.com/photos/8482368/pexels-photo-8482368.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',' Dark chocolate is one of the most popular junk foods that are also healthy. These tasty treats usually have a low amount of sugar. Furthermore, these bitter chocolates are packed with protein and fiber.
+
+Not to mention, their taste is so intense that you can’t overeat them. So, pick the chocolate bars made from 70% cocoa on your next trip to the market.','5', 'active', '60', '1','10', 'No Allergy');
+
+
+
+INSERT INTO PRODUCTS(PRODUCT_NAME,PRODUCT_PRICE,PRODUCT_PICTURE,PRODUCT_DESCRIPTION,SHOP_ID,STATUS,PRODUCT_STOCK,MIN_ORDER,MAX_ORDER,ALLERGY) 
+VALUES ('Popcorn','450','https://images.pexels.com/photos/8508519/pexels-photo-8508519.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',' These movie night snacks are made from whole grain. Not only these are healthy, but they also make you feel that you have eaten more than you want.
+
+Bring popcorn kernels and make them by yourself. This way, you can decide how much oil or butter you want. The interesting part is, you can experiment with several seasonings to choose your favorite one. Some wonderful toppings are chili powder, cinnamon sugar, and parmesan cheese.','5', 'active', '60', '1','10', 'No Allergy');
+
+
+
+INSERT INTO PRODUCTS(PRODUCT_NAME,PRODUCT_PRICE,PRODUCT_PICTURE,PRODUCT_DESCRIPTION,SHOP_ID,STATUS,PRODUCT_STOCK,MIN_ORDER,MAX_ORDER,ALLERGY) 
+VALUES ('Pretzels','60','https://images.pexels.com/photos/4809147/pexels-photo-4809147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',' Pretzels are another healthy mouthwatering junk food; they are salty snacks with low-fat. You have a variety of flavors to choose from, such as spicy buffalo wings or honey mustard. The calories can slightly differ from flavor to flavor.','5', 'active', '800', '1','10', 'No Allergy');
+
+
+INSERT INTO PRODUCTS(PRODUCT_NAME,PRODUCT_PRICE,PRODUCT_PICTURE,PRODUCT_DESCRIPTION,SHOP_ID,STATUS,PRODUCT_STOCK,MIN_ORDER,MAX_ORDER,ALLERGY) 
+VALUES ('Ice Cream','160','https://images.pexels.com/photos/3185509/pexels-photo-3185509.png?auto=compress&cs=tinysrgb&dpr=1&w=500',' Pretzels are another healthy mouthwatering junk food; they are salty snacks with low-fat. You have a variety of flavors to choose from, such as spicy buffalo wings or honey mustard. The calories can slightly differ from flavor to flavor.','5', 'active', '800', '1','10', 'No Allergy');
+
+
+
+INSERT INTO PRODUCTS(PRODUCT_NAME,PRODUCT_PRICE,PRODUCT_PICTURE,PRODUCT_DESCRIPTION,SHOP_ID,STATUS,PRODUCT_STOCK,MIN_ORDER,MAX_ORDER,ALLERGY) 
+VALUES ('Potato Chips','69','https://images.pexels.com/photos/6485538/pexels-photo-6485538.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',' I know, I know. You might be wondering how potato chips can be healthy junk food. Won’t you gain extra fat? That is also true to some extent.
+
+But some potato chips can be healthy for you. The best potato chips that don’t affect your body are free from MSG. This is a common additive that some food brands use. The MSG can cause you allergic reactions, obesity, and headaches.','5', 'active', '600', '1','10', 'No Allergy');
+

@@ -1,0 +1,15 @@
+1. Admin customer
+2. Admin Dashboard
+3. Admin Individual Product details
+4. Admin Menu
+5. Admin Orderdetails
+6. Admin Orderlist
+7. Admin Paidpayments
+8. Admin PaytoTrader All
+9. Admin PaytoTrader Individual
+10. Admin Pending Payments
+11. Admin Productdetails
+12. Customer List
+13. Incomeadmin
+
+File Type: Database Screenshot

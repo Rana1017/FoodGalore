@@ -1,0 +1,13 @@
+1. Admin Dashboard
+2. Admin Daily
+3. Admin Login
+4. Admin monthly
+5. Admin Stock
+6. Admin weekly
+7. Admin login
+8. Admin Customer_info
+9. Highest seller (example)
+10. Review payment (Example)
+11. Shop Product (Example)
+
+File Type: Database Screenshot

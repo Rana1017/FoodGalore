@@ -1,0 +1,12 @@
+1. Authetication
+2. Authorization
+
+File Type: sql 
+
+3. DDL
+4. DML
+5. Sequence
+6. Trigger
+
+
+File Type: Notepad

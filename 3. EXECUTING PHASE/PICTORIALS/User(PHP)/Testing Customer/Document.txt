@@ -1,0 +1,20 @@
+1. Customer cart empty
+2. Customer card product
+3. Customer dashboard
+4. Customer email validation
+5. Customer home
+6. Customer login failed
+7. Customer login page
+8. Customer order details
+9. Customer order notification
+10. Customer orders
+11. Customer paypal invoice
+12. customer paypal login
+13. customer pst review
+14. customer product category
+15. customer product details
+16. customer registration. 
+17. customer search results. 
+18. customer trader details prouct
+19. error
+20. Logout

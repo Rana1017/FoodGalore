@@ -1,0 +1,9 @@
+1. menu product
+2. Trader_order
+3. Trader_update
+4. Trader_add product
+5. Trader dashboard
+6. trader product details
+7. trader product income
+
+File type: Php screenshots

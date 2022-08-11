@@ -1,0 +1,7 @@
+------SHOP
+
+INSERT INTO SHOP (SHOP_NAME , USER_ID , SHOP_IMAGE) VALUES ('BUTCHER','1','https://images.pexels.com/photos/2167025/pexels-photo-2167025.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+INSERT INTO SHOP (SHOP_NAME , USER_ID , SHOP_IMAGE) VALUES ('GREENGROCER','2','https://images.pexels.com/photos/1300972/pexels-photo-1300972.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+INSERT INTO SHOP (SHOP_NAME , USER_ID , SHOP_IMAGE) VALUES ('FISHMONGER','3','https://images.pexels.com/photos/1578445/pexels-photo-1578445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+INSERT INTO SHOP (SHOP_NAME , USER_ID , SHOP_IMAGE) VALUES ('BAKERY','4','https://images.pexels.com/photos/205961/pexels-photo-205961.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+INSERT INTO SHOP (SHOP_NAME , USER_ID, SHOP_IMAGE) VALUES ('DELICATESSEN','5','https://images.pexels.com/photos/264636/pexels-photo-264636.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');

@@ -1,0 +1,9 @@
+1. Another trader
+2. Bakery dashboard
+3. Bakery stock
+4. Invalid Trader login
+5. Only Admin
+6. Traderdaily
+7. Trader login
+
+File Type: Database Screenshot
